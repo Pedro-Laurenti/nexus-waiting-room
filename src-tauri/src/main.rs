@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    nexus_waiting_room_lib::run()
+    nexus_recepcao_lib::run()
 }
